@@ -10,3 +10,4 @@ The following modifications were made for the Bootstrap v2.2.2:
 
 * The default grid layout was changed from 12 to 24 columns.
 * Responsive styles have been integrated into the main CSS files.
+* Default Bootstrap icons classes & sprites removed.
